@@ -1,0 +1,23 @@
+{"animalIdentificationId":56,
+"animalKsbNumber":"KSBM01",
+"animalName":"Mimi",
+"animalType":"Cow",
+"farmId":
+    {"country":"KENYA",
+    "createdDate":"2018-08-18T00:00:00+03:00",
+    "currency":"KES",
+    "emailAddress":"jackniki08@gmail.com",
+    "farmId":4,
+    "farmName":"Maloba",
+    "farmStatus":"Active",
+    "owner":"Jackson Mwaniki",
+    "phoneNumber":"+254715617028",
+    "registrationBody":"0",
+    "registrationNumber":"0"},
+"identificationDesc":"KSBM01",
+"identificationTypeId":
+    {"identificationId":2,
+    "identificationName":"Ear Tag\n",
+    "identificationStatus":"Active"},
+"origin":"Birth",
+"originDate":"2017-08-18T12:18:34.967+03:00"}
